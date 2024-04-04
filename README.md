@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afsheen-imran
+- 👋 Hi, I’m @afsheen-imran
 - 👀 I’m interested in Coding, Content writing, Graphic designing, and Social media marketing.
 - 🌱 I’m currently learning  TypeScript, Node.js, and Generative AI.
 - 💞️ I’m looking to collaborate on  projects that integrate my interests and skills.
